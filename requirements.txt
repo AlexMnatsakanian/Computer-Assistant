@@ -1,0 +1,15 @@
+pyttsx3==2.90
+pywhatkit==5.1
+datetime
+wikipedia
+pyjokes==0.6.0
+keyboard==0.13.5
+pyautogui==0.9.53
+win10toast==0.9
+pycaw==20181226
+psutil==5.8.0
+requests==2.26.0
+geocoder==1.38.1
+dadjokes==0.1.4
+elevenlabs==0.1.0
+playsound==1.3.0
