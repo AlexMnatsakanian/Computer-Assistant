@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="/art/simon.ico" alt="Logo Laravel Cashier Stripe">
+</p>
 # S.I.M.O.N (Speech Intelligent Management Operation Network)
 
 Welcome to S.I.M.O.N, a virtual assistant program written in Python. S.I.M.O.N stands for Speech Intelligent Management Operation Network. This program utilizes various libraries and APIs to perform tasks such as speech recognition, web searches, retrieving news, controlling system functions, and more.
