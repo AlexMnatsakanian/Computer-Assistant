@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/art/simon.ico" alt="Logo Laravel Cashier Stripe">
+    <img src="/art/SIMON.ico" alt="Logo Laravel Cashier Stripe">
 </p>
 # S.I.M.O.N (Speech Intelligent Management Operation Network)
 
