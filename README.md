@@ -33,6 +33,14 @@ python simon.py
 - Python 3.x
 - Libraries: `speech_recognition`, `pywhatkit`, `datetime`, `wikipedia`, `pyjokes`, `os`, `time`, `keyboard`, `re`, `webbrowser`, `pyautogui`, `random`, `win10toast`, `ctypes`, `pycaw`, `psutil`, `requests`, `json`, `geocoder`, `dadjokes`, `elevenlabs`, `playsound`
 
+## Tips
+
+- This Python program uses ElevenLabs API. Because the amount of requests is limited, I have created some sound files that are common phrases used by S.I.M.O.N.
+- If you want to repeat this process, you may replace the **playsound()** function with **talk()**.
+- You could add the common phrases by passing a phrase as a string into the **talk()** function.
+- You can then download the files from the Eleven Labs website which saves all of the audio it generates.
+- You may also create your phrases on the Eleven Labs website without changing any part of the program.
+
 ## Acknowledgements
 
 - **ElevenLabs API:** Used for text-to-speech functionality.
